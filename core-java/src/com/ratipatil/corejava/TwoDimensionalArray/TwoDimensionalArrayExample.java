@@ -1,4 +1,4 @@
-package com.ratipatil.corejava.oops.TwoDimensionalArray;
+package com.ratipatil.corejava.TwoDimensionalArray;
 
 /*
  * TwoDimensionalArrayExample.java

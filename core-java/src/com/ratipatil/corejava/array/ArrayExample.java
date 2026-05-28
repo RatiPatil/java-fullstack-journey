@@ -1,4 +1,4 @@
-package com.ratipatil.corejava.oops.array;
+package com.ratipatil.corejava.array;
 
 /*
  * ArrayExample.java

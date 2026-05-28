@@ -1,4 +1,4 @@
-package com.ratipatil.corejava.arrays;
+package com.ratipatil.corejava.array.JaggedArray;
 
 /*
  * JaggedArrayExample.java
