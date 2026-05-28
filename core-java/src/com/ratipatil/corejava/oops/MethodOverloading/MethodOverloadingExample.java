@@ -1,4 +1,4 @@
-package com.ratipatil.corejava.oops.methodOverloading;
+package com.ratipatil.corejava.oops.MethodOverloading;
 
 /*
  * MethodOverloadingExample.java

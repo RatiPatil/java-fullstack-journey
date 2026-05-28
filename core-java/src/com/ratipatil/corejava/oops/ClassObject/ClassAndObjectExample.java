@@ -1,4 +1,4 @@
-package com.ratipatil.corejava.oops.classobject;
+package com.ratipatil.corejava.oops.ClassObject;
 
 /*
  * ClassAndObjectExample.java
