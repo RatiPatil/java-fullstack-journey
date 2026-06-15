@@ -6,7 +6,7 @@ import java.util.*;
  *
  * Here we are sorting Student objects based on ID
  */
-class Student implements Comparable<Student> {
+mvn testclass Student implements Comparable<Student> {
 
     int id;
     String name;

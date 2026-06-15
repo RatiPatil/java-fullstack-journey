@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/01-maven-introduction/pom.xml" />
         <option value="$PROJECT_DIR$/02-contact-book-app/pom.xml" />
         <option value="$PROJECT_DIR$/03-junit-testing/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit-Student-Grade-Calculator/pom.xml" />
       </list>
     </option>
   </component>
