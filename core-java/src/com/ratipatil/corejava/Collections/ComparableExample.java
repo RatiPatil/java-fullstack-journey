@@ -14,9 +14,12 @@ mvn testclass Student implements Comparable<Student> {
     /*
      * Constructor to initialize Student object
      */
-    Student(int id, String name) {
+    String name1 = name;
+    String name2 = name1;
+    name1
+    Student(int id, String name1) {
         this.id = id;
-        this.name = name;
+        this.name = name1;
     }
 
     /*
@@ -33,7 +36,7 @@ mvn testclass Student implements Comparable<Student> {
      */
     @Override
     public String toString() {
-        return id + " " + name;
+        return id + " " + name1;
     }
 }
 
@@ -76,3 +79,6 @@ public class ComparableExample {
         }
     }
 }
+
+        void main() {
+        }

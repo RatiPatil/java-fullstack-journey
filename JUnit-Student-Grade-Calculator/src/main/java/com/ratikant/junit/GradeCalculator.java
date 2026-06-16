@@ -1,5 +1,4 @@
 package com.ratikant.junit;
-
 public class GradeCalculator {
 
     public String calculateGrade(int marks) {
