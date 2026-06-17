@@ -1,5 +1,6 @@
-package com.ratikant.junit;
+package com.ratikant;
 
+import com.ratikant.junit.GradeCalculator;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
