@@ -38,7 +38,7 @@ Core Java helps us:
 
 ---
 
-## Object Oriented Programming (OOP)
+## Object Oriented Programming (OOPs)
 
 - Class and Object
 - Constructor

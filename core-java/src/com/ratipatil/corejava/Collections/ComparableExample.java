@@ -1,3 +1,5 @@
+import com.ratipatil.corejava.JavaModernFeature.ConstructorReference.Student;
+
 import java.util.*;
 
 /*
@@ -6,7 +8,7 @@ import java.util.*;
  *
  * Here we are sorting Student objects based on ID
  */
-mvn testclass Student implements Comparable<Student> {
+ public class comparableExample implements Comparable<comparableExample> {
 
     int id;
     String name;
@@ -38,7 +40,12 @@ mvn testclass Student implements Comparable<Student> {
     public String toString() {
         return id + " " + name1;
     }
-}
+
+     @Override
+     public int compareTo(comparableExample o) {
+         return 0;
+     }
+ }
 
 /*
  * Main class to test Comparable sorting

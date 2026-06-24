@@ -9,6 +9,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/first_program/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/core-java/oops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DSA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core-java" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
