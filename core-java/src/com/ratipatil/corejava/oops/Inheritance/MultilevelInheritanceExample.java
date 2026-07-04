@@ -7,43 +7,7 @@ package com.ratipatil.corejava.oops.Inheritance;
  * Multilevel Inheritance
  */
 
-// =================================================
-// Grandparent Class
-// =================================================
 
-class Animal {
-
-    void eat() {
-
-        System.out.println("Animal is Eating");
-    }
-}
-
-
-// =================================================
-// Parent Class
-// =================================================
-
-class Dog extends Animal {
-
-    void bark() {
-
-        System.out.println("Dog is Barking");
-    }
-}
-
-
-// =================================================
-// Child Class
-// =================================================
-
-class BabyDog extends Dog {
-
-    void weep() {
-
-        System.out.println("Baby Dog is Weeping");
-    }
-}
 
 
 // =================================================

@@ -6,10 +6,7 @@ import java.io.*;
  * Deserialization Example
  */
 
-class Student implements Serializable {
 
-    String name = "Ratikant";
-}
 
 public class DeserializationExample {
 
@@ -21,7 +18,7 @@ public class DeserializationExample {
         ObjectInputStream in =
                 new ObjectInputStream(file);
 
-        Student s1 = (Student) in.readObject();
+        StudentSerialization s1 = (StudentSerialization) in.readObject();
 
         in.close();
 

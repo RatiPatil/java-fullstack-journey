@@ -9,6 +9,11 @@ public class RectanglePattern {
             System.out.print("* ");
         }
         System.out.println();
+
+
+
+
+
     }
 }
 }

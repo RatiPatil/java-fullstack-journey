@@ -1,3 +1,5 @@
+package com.ratipatil.corejava.JavaModernFeature.RecordClass;
+
 /*
  * ==========================================================
  * RecordClassExample.java

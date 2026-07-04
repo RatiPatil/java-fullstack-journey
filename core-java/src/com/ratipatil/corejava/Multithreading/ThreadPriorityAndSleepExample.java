@@ -12,7 +12,7 @@ package com.ratipatil.corejava.Multithreading;
 // Thread Class
 // =================================================
 
-class MyThread extends Thread {
+class PriorityThread extends Thread {
 
     @Override
     public void run() {
@@ -47,8 +47,8 @@ public class ThreadPriorityAndSleepExample {
     public static void main(String[] args) {
 
         // Creating Threads
-        MyThread t1 = new MyThread();
-        MyThread t2 = new MyThread();
+        PriorityThread t1 = new PriorityThread();
+        PriorityThread t2 = new PriorityThread();
 
         // Setting Names
         t1.setName("Thread-A");

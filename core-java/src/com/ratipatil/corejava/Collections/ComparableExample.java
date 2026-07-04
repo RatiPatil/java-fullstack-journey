@@ -1,4 +1,4 @@
-import com.ratipatil.corejava.JavaModernFeature.ConstructorReference.Student;
+package com.ratipatil.corejava.Collections;
 
 import java.util.*;
 
@@ -8,7 +8,7 @@ import java.util.*;
  *
  * Here we are sorting Student objects based on ID
  */
- public class comparableExample implements Comparable<comparableExample> {
+class Student implements Comparable<Student> {
 
     int id;
     String name;
@@ -16,12 +16,9 @@ import java.util.*;
     /*
      * Constructor to initialize Student object
      */
-    String name1 = name;
-    String name2 = name1;
-    name1
-    Student(int id, String name1) {
+    Student(int id, String name) {
         this.id = id;
-        this.name = name1;
+        this.name = name;
     }
 
     /*
@@ -38,14 +35,9 @@ import java.util.*;
      */
     @Override
     public String toString() {
-        return id + " " + name1;
+        return id + " " + name;
     }
-
-     @Override
-     public int compareTo(comparableExample o) {
-         return 0;
-     }
- }
+}
 
 /*
  * Main class to test Comparable sorting
@@ -86,6 +78,3 @@ public class ComparableExample {
         }
     }
 }
-
-        void main() {
-        }

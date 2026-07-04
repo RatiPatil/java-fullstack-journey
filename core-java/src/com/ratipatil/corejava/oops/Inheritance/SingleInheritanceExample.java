@@ -7,30 +7,7 @@ package com.ratipatil.corejava.oops.Inheritance;
  * Single Inheritance
  */
 
-// =================================================
-// Parent Class
-// =================================================
 
-class Animal {
-
-    void eat() {
-
-        System.out.println("Animal is Eating");
-    }
-}
-
-
-// =================================================
-// Child Class
-// =================================================
-
-class Dog extends Animal {
-
-    void bark() {
-
-        System.out.println("Dog is Barking");
-    }
-}
 
 
 // =================================================

@@ -6,7 +6,7 @@ import java.io.*;
  * Serialization Example
  */
 
-class Student implements Serializable {
+class StudentSerialization implements Serializable {
 
     String name = "Ratikant";
 }
@@ -15,7 +15,7 @@ public class SerializationExample {
 
     public static void main(String[] args) throws Exception {
 
-        Student s1 = new Student();
+        StudentSerialization s1 = new StudentSerialization();
 
         FileOutputStream file =
                 new FileOutputStream("student.txt");

@@ -15,7 +15,7 @@ package com.ratipatil.corejava.Multithreading;
 // Thread Class
 // =================================================
 
-class MyThread extends Thread {
+class StateThread extends Thread {
 
     @Override
     public void run() {
@@ -45,7 +45,7 @@ public class ThreadStateExample {
     public static void main(String[] args) throws Exception {
 
         // Creating Thread Object
-        MyThread t1 = new MyThread();
+        StateThread t1 = new StateThread();
 
         // NEW State
         System.out.println(
