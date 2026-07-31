@@ -1,6 +1,6 @@
 package Array;
 import java.util.Scanner;
-
+// sum of elements
 public class Array2Dpractice01 {
     public static void main(String [] args){
         Scanner sc = new Scanner (System.in);
