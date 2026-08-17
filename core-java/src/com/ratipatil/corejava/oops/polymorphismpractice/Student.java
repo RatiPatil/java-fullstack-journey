@@ -1,9 +1,9 @@
 package com.ratipatil.corejava.oops.polymorphismpractice;
 
 public class Student {
-
+    int a ; int b ;
     public void add(int a  , int b ){
-        System.out.println("The sum of the Numbers : " + a+b);
+        System.out.println("The sum of the Numbers : " + (a+b));
     }
     public void studentWork(){
         System.out.println("Student doing his work ....");
@@ -18,10 +18,14 @@ class NewStudent extends  Student{
 
     }
 
+
+    public static void main(String [] data){
+
+        Student st = new NewStudent();
+        st.studentWork();
+        st.add(3,4);
+    }
+
 }
 
-public static void main(String [] data){
 
-    Student st = new NewStudent();
-
-}
