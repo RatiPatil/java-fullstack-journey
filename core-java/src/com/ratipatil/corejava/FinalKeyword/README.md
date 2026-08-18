@@ -47,7 +47,7 @@ Once value is set → cannot change.
 
 # 2. final Method
 
-## Definition
+## Definitions
 
 A final method cannot be overridden in child class.
 
