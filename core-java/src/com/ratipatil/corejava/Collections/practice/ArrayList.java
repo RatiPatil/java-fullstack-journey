@@ -12,7 +12,7 @@ public class ArrayList<I extends Number> {
 
     }
 
-    private void add(I i) {
+    void add(I i) {
     }
 
 
