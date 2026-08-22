@@ -14,6 +14,7 @@ public class StudentMarks {
         marks.add(89);
         marks.add(67);
         marks.add(43);
+        marks.add(65);
 
         for(Integer hello : marks){
             System.out.println(marks);
