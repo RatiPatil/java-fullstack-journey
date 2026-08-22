@@ -12,8 +12,6 @@ public class ArrayList<I extends Number> {
 
     }
 
-    void add(I i) {
-    }
-
+    v
 
 }
