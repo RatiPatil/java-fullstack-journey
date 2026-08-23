@@ -16,6 +16,10 @@ class Student{
         this.gpa=gpa;
     }
 
+
+    public double getGpa() {
+            return gpa;
+    }
 }
 public class StudentRegistrySystem {
     public static void main(String [] args){
