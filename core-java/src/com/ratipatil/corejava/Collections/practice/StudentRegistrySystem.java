@@ -9,7 +9,7 @@ class Student{
 
     public double gpa ;
 
-    Student()
+    Student(){}
 
 }
 public class StudentRegistrySystem {
