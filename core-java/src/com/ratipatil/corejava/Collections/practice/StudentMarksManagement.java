@@ -26,7 +26,6 @@ public class StudentMarksManagement {
 
 
 
-        System.out.println(newarray.max());
 
 
 
