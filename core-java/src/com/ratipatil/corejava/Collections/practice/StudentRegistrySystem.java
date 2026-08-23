@@ -17,8 +17,8 @@ class Student{
     }
 
 
-    public double getGpa() {
-            return gpa;
+    public String toString() {
+            return id,name,gpa;
     }
 }
 public class StudentRegistrySystem {
