@@ -14,6 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Patterns" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Methods" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/InterviewCodingQuestions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/corejavapractice" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/core-java/src/com/ratipatil/corejava/oops/Inheritance" />
     </content>
     <orderEntry type="inheritedJdk" />
