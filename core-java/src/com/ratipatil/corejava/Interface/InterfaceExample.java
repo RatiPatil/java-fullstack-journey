@@ -19,7 +19,7 @@ class Dog implements Animal {
 
 public class InterfaceExample {
 
-    public static void main(String[] args) {
+    public static void main(String[] data) {
 
         Dog dog1 = new Dog();
 
