@@ -4,6 +4,8 @@ public class duplicatenumber {
 
         System.out.println("ggwllo ");
 
+        System.out.println("Duplicate NUMber");
+
 
 
 
